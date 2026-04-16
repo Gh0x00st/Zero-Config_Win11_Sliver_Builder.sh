@@ -1,0 +1,1 @@
+Created an automated opsec-ish bash script version of win11 AV bypass script from the [video](https://youtu.be/g0R5A-xmHuU) posted by HackSmarter. Giving all the credit to him for making this possible!
